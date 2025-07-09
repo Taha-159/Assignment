@@ -1,0 +1,74 @@
+.hero {
+    color: #000 !important;
+}
+
+
+.speaker-card img {
+    background-image: -webkit-radial-gradient();
+}
+
+
+
+ body {
+            background-color: #fff2eb;
+            font-family: 'Segoe UI', sans-serif;
+        }
+
+        .highlight-yellow {
+            background-color: #fff200;
+            font-weight: bold;
+        }
+
+        .hero-heading {
+            font-size: 2.5rem;
+            font-weight: 700;
+        }
+
+        .highlight-underline {
+            text-decoration: underline red 3px;
+        }
+
+        .form-section {
+            background-color: #1e1e1e;
+            color: white;
+            padding: 2rem;
+            border-radius: 10px;
+            border: 3px solid #ffd700;
+        }
+
+        .form-control::placeholder {
+            color: #999;
+        }
+
+        .register-btn {
+    background-color: #ff3c3c;
+    color: yellow;
+    font-weight: bold;
+    font-size: 1rem;
+    padding: 12px 24px;
+    border: 2px solid white;
+    border-radius: 6px;
+    box-shadow: 2.5px 2.5px 0px white;
+}
+
+
+        .speaker-card {
+            background-color: black;
+            color: yellow;
+            padding: 1rem;
+            border: 2px solid yellow;
+            border-radius: 8px;
+        }
+
+        .speaker-card img {
+            max-width: 100%;
+            height: auto;
+        }
+
+        .card-icon {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    color: #a0a0a0;
+    font-size: 1.6rem;
+}
